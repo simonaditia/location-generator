@@ -71,5 +71,10 @@ button:hover {
 
 #locationImage {
     max-width: 100%;
+}
+
+#locationOfficialName {
+    background: hsl(0, 0%, 100%);
+    padding: 0.50rem;
     border-radius: 0 0 1rem 1rem;
 }
